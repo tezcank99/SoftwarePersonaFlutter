@@ -12,18 +12,12 @@ Kullanıcılar ürünleri listeleyebilir, detaylarını görebilir, sepete ekley
 
 ## Uygulama Ekran Görüntüleri
 
-### Ana Sayfa
-![Ana Sayfa](screenshots/homepage.png)
-
-### Ürün Detay Sayfası
-![Detay Sayfası](screenshots/detailpage.png)
-
-### Sepet Sayfası
-![Sepet](screenshots/cardpage.png)
-
-### Boş Sepet
-![Boş Sepet](screenshots/Emptycardpage.png)
-## Kurulum ve Çalıştırma Adımları
+<p>
+<img src="screenshots/homepage.png" width="220">
+<img src="screenshots/detailpage.png" width="220">
+<img src="screenshots/cardpage.png" width="220">
+<img src="screenshots/Emptycardpage.png" width="220">
+</p>
 
 
 1. Repo’yu klonlayın:
