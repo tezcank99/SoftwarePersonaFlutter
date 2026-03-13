@@ -2,7 +2,7 @@
 # Gift Store
 
 ## Kısa Açıklama
-Gift Store, Flutter ile geliştirilmiş bir ürün listeleme ve sepet uygulamasıdır.  
+Gift Store, Flutter ile geliştirilmiş bir ürün listeleme ve sepet uygulamasıdır.
 Kullanıcılar ürünleri listeleyebilir, detaylarını görebilir, sepete ekleyebilir ve sepetten ürünleri yönetebilir.
 
 ## Kullanılan Flutter Sürümü
@@ -20,6 +20,3 @@ Kullanıcılar ürünleri listeleyebilir, detaylarını görebilir, sepete ekley
 </p>
 
 
-1. Repo’yu klonlayın:
-```bash
-git clone <repo-linki>
