@@ -1,4 +1,3 @@
-# flutter_application_1
 
 # Gift Store
 
@@ -11,7 +10,21 @@ Kullanıcılar ürünleri listeleyebilir, detaylarını görebilir, sepete ekley
 - Dart 3.11.1
 - DevTools 2.54.1
 
+## Uygulama Ekran Görüntüleri
+
+### Ana Sayfa
+![Ana Sayfa](screenshots/homepage.png)
+
+### Ürün Detay Sayfası
+![Detay Sayfası](screenshots/detailpage.png)
+
+### Sepet Sayfası
+![Sepet](screenshots/cardpage.png)
+
+### Boş Sepet
+![Boş Sepet](screenshots/Emptycardpage.png)
 ## Kurulum ve Çalıştırma Adımları
+
 
 1. Repo’yu klonlayın:
 ```bash
